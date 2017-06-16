@@ -9,3 +9,5 @@ Below is a description of the folders and code they contain.
 **Scaffold_binning**. This code was used to bin viral scaffolds according to tetranucleotide frequencies (TNF) and relative abundances in different metagenomic time-series. 
 
 **Transcriptome_mapping**. This code was used to analyze viral transcriptomic datasets and perform a number of statistical tests for diel periodicity. Code for various figures is also included for visualization. 
+
+**Fragment_recruitment**. This code was used to summarize the results of blastn and blastx fragement recruitment analyses performed on viral scaffolds (the references) from metagenomes sequences as part of the Hawaii Ocean Time-series (HOT; the query).  
