@@ -1,0 +1,107 @@
+scaffold103	15900		unclassified	scaffold103|size15900	107	1	VS103	scaffold103|size15900
+scaffold96	16237		unclassified	scaffold96|size16237	106	2	VS96	scaffold96|size16237
+scaffold85	17456		unclassified	scaffold85|size17456	105	3	VS85	scaffold85|size17456
+scaffold82	17697		unclassified	scaffold82|size17697	104	4	VS82	scaffold82|size17697
+scaffold72	19667		unclassified	scaffold72|size19667	103	5	VS72	scaffold72|size19667
+scaffold64	21063		unclassified	scaffold64|size21063	102	6	VS64	scaffold64|size21063
+scaffold63	21131		unclassified	scaffold63|size21131	101	7	VS63	scaffold63|size21131
+scaffold59	21604		unclassified	scaffold59|size21604	100	8	VS59	scaffold59|size21604
+scaffold51	22880		unclassified	scaffold51|size22880	99	9	VS51	scaffold51|size22880
+scaffold46	23707		unclassified	scaffold46|size23707	98	10	VS46	scaffold46|size23707
+scaffold36	25952		unclassified	scaffold36|size25952	97	11	VS36	scaffold36|size25952
+scaffold35	26017		unclassified	scaffold35|size26017	96	12	VS35	scaffold35|size26017
+scaffold34	26379		unclassified	scaffold34|size26379	95	13	VS34	scaffold34|size26379
+scaffold32	26810		unclassified	scaffold32|size26810	94	14	VS32	scaffold32|size26810
+scaffold28	28336		unclassified	scaffold28|size28336	93	15	VS28	scaffold28|size28336
+scaffold27	29202		unclassified	scaffold27|size29202	92	16	VS27	scaffold27|size29202
+scaffold19	33814		unclassified	scaffold19|size33814	91	17	VS19	scaffold19|size33814
+scaffold18	34068		unclassified	scaffold18|size34068	90	18	VS18	scaffold18|size34068
+scaffold15	34769		unclassified	scaffold15|size34769	89	19	VS15	scaffold15|size34769
+scaffold108	15110		unclassified caudovirales	scaffold108|size15110	88	20	VS108	scaffold108|size15110
+scaffold107	15344		unclassified caudovirales	scaffold107|size15344	87	21	VS107	scaffold107|size15344
+scaffold106	15427		unclassified caudovirales	scaffold106|size15427	86	22	VS106	scaffold106|size15427
+scaffold105	15809		unclassified caudovirales	scaffold105|size15809	85	23	VS105	scaffold105|size15809
+scaffold104	15868		unclassified caudovirales	scaffold104|size15868	84	24	VS104	scaffold104|size15868
+scaffold101	16015		unclassified caudovirales	scaffold101|size16015	83	25	VS101	scaffold101|size16015
+scaffold100	16054		unclassified caudovirales	scaffold100|size16054	82	26	VS100	scaffold100|size16054
+scaffold98	16154		unclassified caudovirales	scaffold98|size16154	81	27	VS98	scaffold98|size16154
+scaffold97	16161		unclassified caudovirales	scaffold97|size16161	80	28	VS97	scaffold97|size16161
+scaffold94	16502		unclassified caudovirales	scaffold94|size16502	79	29	VS94	scaffold94|size16502
+scaffold91	16880		unclassified caudovirales	scaffold91|size16880	78	30	VS91	scaffold91|size16880
+scaffold88	17085		unclassified caudovirales	scaffold88|size17085	77	31	VS88	scaffold88|size17085
+scaffold87	17269		unclassified caudovirales	scaffold87|size17269	76	32	VS87	scaffold87|size17269
+scaffold84	17492		unclassified caudovirales	scaffold84|size17492	75	33	VS84	scaffold84|size17492
+scaffold83	17577		unclassified caudovirales	scaffold83|size17577	74	34	VS83	scaffold83|size17577
+scaffold78	18738		unclassified caudovirales	scaffold78|size18738	73	35	VS78	scaffold78|size18738
+scaffold77	18956		unclassified caudovirales	scaffold77|size18956	72	36	VS77	scaffold77|size18956
+scaffold71	19786		unclassified caudovirales	scaffold71|size19786	71	37	VS71	scaffold71|size19786
+scaffold70	20074		unclassified caudovirales	scaffold70|size20074	70	38	VS70	scaffold70|size20074
+scaffold69	20158		unclassified caudovirales	scaffold69|size20158	69	39	VS69	scaffold69|size20158
+scaffold68	20460		unclassified caudovirales	scaffold68|size20460	68	40	VS68	scaffold68|size20460
+scaffold67	20689		unclassified caudovirales	scaffold67|size20689	67	41	VS67	scaffold67|size20689
+scaffold66	20808		unclassified caudovirales	scaffold66|size20808	66	42	VS66	scaffold66|size20808
+scaffold62	21290		unclassified caudovirales	scaffold62|size21290	65	43	VS62	scaffold62|size21290
+scaffold57	22358		unclassified caudovirales	scaffold57|size22358	64	44	VS57	scaffold57|size22358
+scaffold56	22492		unclassified caudovirales	scaffold56|size22492	63	45	VS56	scaffold56|size22492
+scaffold55	22624		unclassified caudovirales	scaffold55|size22624	62	46	VS55	scaffold55|size22624
+scaffold54	22665		unclassified caudovirales	scaffold54|size22665	61	47	VS54	scaffold54|size22665
+scaffold53	22706		unclassified caudovirales	scaffold53|size22706	60	48	VS53	scaffold53|size22706
+scaffold52	22818		unclassified caudovirales	scaffold52|size22818	59	49	VS52	scaffold52|size22818
+scaffold48	23468		unclassified caudovirales	scaffold48|size23468	58	50	VS48	scaffold48|size23468
+scaffold45	23869		unclassified caudovirales	scaffold45|size23869	57	51	VS45	scaffold45|size23869
+scaffold42	24121		unclassified caudovirales	scaffold42|size24121	56	52	VS42	scaffold42|size24121
+scaffold40	24419		unclassified caudovirales	scaffold40|size24419	55	53	VS40	scaffold40|size24419
+scaffold38	25810		unclassified caudovirales	scaffold38|size25810	54	54	VS38	scaffold38|size25810
+scaffold26	29251		unclassified caudovirales	scaffold26|size29251	53	55	VS26	scaffold26|size29251
+scaffold20	32169		unclassified caudovirales	scaffold20|size32169	52	56	VS20	scaffold20|size32169
+scaffold13	35890		unclassified caudovirales	scaffold13|size35890	51	57	VS13	scaffold13|size35890
+scaffold11	39219		unclassified caudovirales	scaffold11|size39219	50	58	VS11	scaffold11|size39219
+scaffold9	40844		unclassified caudovirales	scaffold9|size40844	49	59	VS9	scaffold9|size40844
+scaffold8	41205		unclassified caudovirales	scaffold8|size41205	48	60	VS8	scaffold8|size41205
+scaffold5	51494		unclassified caudovirales	scaffold5|size51494	47	61	VS5	scaffold5|size51494
+scaffold4	54391		unclassified caudovirales	scaffold4|size54391	46	62	VS4	scaffold4|size54391
+scaffold3	57845		unclassified caudovirales	scaffold3|size57845	45	63	VS3	scaffold3|size57845
+scaffold2	68964		unclassified caudovirales	scaffold2|size68964	44	64	VS2	scaffold2|size68964
+scaffold44	23999		Podoviridae	scaffold44|size23999	43	65	VS44	scaffold44|size23999
+scaffold89	16912		Myoviridae	scaffold89|size16912	42	66	VS89	scaffold89|size16912
+scaffold76	19088		Myoviridae	scaffold76|size19088	41	67	VS76	scaffold76|size19088
+scaffold16	34431		Myoviridae	scaffold16|size34431	40	68	VS16	scaffold16|size34431
+scaffold14	35649		Myoviridae	scaffold14|size35649	39	69	VS14	scaffold14|size35649
+scaffold7	43665		Myoviridae	scaffold7|size43665	38	70	VS7	scaffold7|size43665
+scaffold102	15970	het	Podoviridae	scaffold102|size15970	37	71	VS102	scaffold102|size15970
+scaffold99	16095	het	Podoviridae	scaffold99|size16095	36	72	VS99	scaffold99|size16095
+scaffold93	16542	het	Podoviridae	scaffold93|size16542	35	73	VS93	scaffold93|size16542
+scaffold92	16745	het	Podoviridae	scaffold92|size16745	34	74	VS92	scaffold92|size16745
+scaffold80	18052	het	Podoviridae	scaffold80|size18052	33	75	VS80	scaffold80|size18052
+scaffold189	18494	het	Podoviridae	scaffold189|size18494	32	76	VS189	scaffold189|size18494
+scaffold73	19655	het	Podoviridae	scaffold73|size19655	31	77	VS73	scaffold73|size19655
+scaffold43	24068	het	Podoviridae	scaffold43|size24068	30	78	VS43	scaffold43|size24068
+scaffold41	24277	het	Podoviridae	scaffold41|size24277	29	79	VS41	scaffold41|size24277
+scaffold39	25020	het	Podoviridae	scaffold39|size25020	28	80	VS39	scaffold39|size25020
+scaffold37	25828	het	Podoviridae	scaffold37|size25828	27	81	VS37	scaffold37|size25828
+scaffold29	28000	het	Podoviridae	scaffold29|size28000	26	82	VS29	scaffold29|size28000
+scaffold24	30339	het	Podoviridae	scaffold24|size30339	25	83	VS24	scaffold24|size30339
+scaffold22	31824	het	Podoviridae	scaffold22|size31824	24	84	VS22	scaffold22|size31824
+scaffold95	16245	het	Myoviridae	scaffold95|size16245	23	85	VS95	scaffold95|size16245
+scaffold79	18396	het	Myoviridae	scaffold79|size18396	22	86	VS79	scaffold79|size18396
+scaffold75	19149	het	Myoviridae	scaffold75|size19149	21	87	VS75	scaffold75|size19149
+scaffold74	19487	het	Myoviridae	scaffold74|size19487	20	88	VS74	scaffold74|size19487
+scaffold65	20961	het	Myoviridae	scaffold65|size20961	19	89	VS65	scaffold65|size20961
+scaffold61	21296	het	Myoviridae	scaffold61|size21296	18	90	VS61	scaffold61|size21296
+scaffold50	23177	het	Myoviridae	scaffold50|size23177	17	91	VS50	scaffold50|size23177
+scaffold49	23370	het	Myoviridae	scaffold49|size23370	16	92	VS49	scaffold49|size23370
+scaffold47	23510	het	Myoviridae	scaffold47|size23510	15	93	VS47	scaffold47|size23510
+scaffold21	32028	het	Myoviridae	scaffold21|size32028	14	94	VS21	scaffold21|size32028
+scaffold17	34077	het	Myoviridae	scaffold17|size34077	13	95	VS17	scaffold17|size34077
+scaffold10	39744	cyano	unclassified caudovirales	scaffold10|size39744	12	96	VS10	scaffold10|size39744
+scaffold90	16900	cyano	Myoviridae	scaffold90|size16900	11	97	VS90	scaffold90|size16900
+scaffold86	17364	cyano	Myoviridae	scaffold86|size17364	10	98	VS86	scaffold86|size17364
+scaffold81	17724	cyano	Myoviridae	scaffold81|size17724	9	99	VS81	scaffold81|size17724
+scaffold58	21890	cyano	Myoviridae	scaffold58|size21890	8	100	VS58	scaffold58|size21890
+scaffold33	26389	cyano	Myoviridae	scaffold33|size26389	7	101	VS33	scaffold33|size26389
+scaffold60	26940	cyano	Myoviridae	scaffold60|size26940	6	102	VS60	scaffold60|size26940
+scaffold31	27846	cyano	Myoviridae	scaffold31|size27846	5	103	VS31	scaffold31|size27846
+scaffold30	27949	cyano	Myoviridae	scaffold30|size27949	4	104	VS30	scaffold30|size27949
+scaffold25	29927	cyano	Myoviridae	scaffold25|size29927	3	105	VS25	scaffold25|size29927
+scaffold23	30926	cyano	Myoviridae	scaffold23|size30926	2	106	VS23	scaffold23|size30926
+scaffold1	160000	cyano	Myoviridae	scaffold1|size70376	1	107	VG1	scaffold1|size70376; scaffold6|size43974; scaffold12|size37975; scaffold153|size11910
