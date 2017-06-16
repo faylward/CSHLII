@@ -1,0 +1,108 @@
+Group_ID	Length	Taxonomy	Host	index	index2	Final_Group
+VG1	164235	Myoviridae	cyano	1	107	1
+VS23	30926	Myoviridae	cyano	2	106	23
+VS25	29927	Myoviridae	cyano	3	105	25
+VS30	27949	Myoviridae	cyano	4	104	30
+VS31	27846	Myoviridae	cyano	5	103	31
+VS60	26940	Myoviridae	cyano	6	102	60
+VS33	26389	Myoviridae	cyano	7	101	33
+VS58	21890	Myoviridae	cyano	8	100	58
+VS81	17724	Myoviridae	cyano	9	99	81
+VS86	17364	Myoviridae	cyano	10	98	86
+VS90	16900	Myoviridae	cyano	11	97	90
+VS10	39744	unclassified caudovirales	cyano	12	96	10
+VS17	34077	Myoviridae	het	13	95	17
+VS21	32028	Myoviridae	het	14	94	21
+VS47	23510	Myoviridae	het	15	93	47
+VS49	23370	Myoviridae	het	16	92	49
+VS50	23177	Myoviridae	het	17	91	50
+VS61	21296	Myoviridae	het	18	90	61
+VS65	20961	Myoviridae	het	19	89	65
+VS74	19487	Myoviridae	het	20	88	74
+VS75	19149	Myoviridae	het	21	87	75
+VS79	18396	Myoviridae	het	22	86	79
+VS95	16245	Myoviridae	het	23	85	95
+VS22	31824	Podoviridae	het	24	84	22
+VS24	30339	Podoviridae	het	25	83	24
+VS29	28000	Podoviridae	het	26	82	29
+VS37	25828	Podoviridae	het	27	81	37
+VS39	25020	Podoviridae	het	28	80	39
+VS41	24277	Podoviridae	het	29	79	41
+VS43	24068	Podoviridae	het	30	78	43
+VS73	19655	Podoviridae	het	31	77	73
+VS189	18494	Podoviridae	het	32	76	189
+VS80	18052	Podoviridae	het	33	75	80
+VS92	16745	Podoviridae	het	34	74	92
+VS93	16542	Podoviridae	het	35	73	93
+VS99	16095	Podoviridae	het	36	72	99
+VS102	15970	Podoviridae	het	37	71	102
+VS7	43665	Myoviridae		38	70	7
+VS14	35649	Myoviridae		39	69	14
+VS16	34431	Myoviridae		40	68	16
+VS76	19088	Myoviridae		41	67	76
+VS89	16912	Myoviridae		42	66	89
+VS44	23999	Podoviridae		43	65	44
+VS2	68964	unclassified caudovirales		44	64	2
+VS3	57845	unclassified caudovirales		45	63	3
+VS4	54391	unclassified caudovirales		46	62	4
+VS5	51494	unclassified caudovirales		47	61	5
+VS8	41205	unclassified caudovirales		48	60	8
+VS9	40844	unclassified caudovirales		49	59	9
+VS11	39219	unclassified caudovirales		50	58	11
+VS13	35890	unclassified caudovirales		51	57	13
+VS20	32169	unclassified caudovirales		52	56	20
+VS26	29251	unclassified caudovirales		53	55	26
+VS38	25810	unclassified caudovirales		54	54	38
+VS40	24419	unclassified caudovirales		55	53	40
+VS42	24121	unclassified caudovirales		56	52	42
+VS45	23869	unclassified caudovirales		57	51	45
+VS48	23468	unclassified caudovirales		58	50	48
+VS52	22818	unclassified caudovirales		59	49	52
+VS53	22706	unclassified caudovirales		60	48	53
+VS54	22665	unclassified caudovirales		61	47	54
+VS55	22624	unclassified caudovirales		62	46	55
+VS56	22492	unclassified caudovirales		63	45	56
+VS57	22358	unclassified caudovirales		64	44	57
+VS62	21290	unclassified caudovirales		65	43	62
+VS66	20808	unclassified caudovirales		66	42	66
+VS67	20689	unclassified caudovirales		67	41	67
+VS68	20460	unclassified caudovirales		68	40	68
+VS69	20158	unclassified caudovirales		69	39	69
+VS70	20074	unclassified caudovirales		70	38	70
+VS71	19786	unclassified caudovirales		71	37	71
+VS77	18956	unclassified caudovirales		72	36	77
+VS78	18738	unclassified caudovirales		73	35	78
+VS83	17577	unclassified caudovirales		74	34	83
+VS84	17492	unclassified caudovirales		75	33	84
+VS87	17269	unclassified caudovirales		76	32	87
+VS88	17085	unclassified caudovirales		77	31	88
+VS91	16880	unclassified caudovirales		78	30	91
+VS94	16502	unclassified caudovirales		79	29	94
+VS97	16161	unclassified caudovirales		80	28	97
+VS98	16154	unclassified caudovirales		81	27	98
+VS100	16054	unclassified caudovirales		82	26	100
+VS101	16015	unclassified caudovirales		83	25	101
+VS104	15868	unclassified caudovirales		84	24	104
+VS105	15809	unclassified caudovirales		85	23	105
+VS106	15427	unclassified caudovirales		86	22	106
+VS107	15344	unclassified caudovirales		87	21	107
+VS108	15110	unclassified caudovirales		88	20	108
+VS15	34769	unclassified		89	19	15
+VS18	34068	unclassified		90	18	18
+VS19	33814	unclassified		91	17	19
+VS27	29202	unclassified		92	16	27
+VS28	28336	unclassified		93	15	28
+VS32	26810	unclassified		94	14	32
+VS34	26379	unclassified		95	13	34
+VS35	26017	unclassified		96	12	35
+VS36	25952	unclassified		97	11	36
+VS46	23707	unclassified		98	10	46
+VS51	22880	unclassified		99	9	51
+VS59	21604	unclassified		100	8	59
+VS63	21131	unclassified		101	7	63
+VS64	21063	unclassified		102	6	64
+VS72	19667	unclassified		103	5	72
+VS82	17697	unclassified		104	4	82
+VS85	17456	unclassified		105	3	85
+VS96	16237	unclassified		106	2	96
+VS103	15900	unclassified		107	1	103
